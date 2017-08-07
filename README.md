@@ -1,3 +1,4 @@
+aaaaaa
 # gulp-config 步骤
 * 新建文件夹
 * npm init --yes
